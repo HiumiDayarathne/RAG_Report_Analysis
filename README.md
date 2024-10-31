@@ -1,6 +1,6 @@
 # RAG Pipeline for Annual Report Analysis
 
-![UI](UI.png)
+![UI](UI.PNG)
 
 ## Features
 - **PDF Document Upload**:  
